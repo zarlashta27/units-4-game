@@ -1,0 +1,40 @@
+
+body{
+    min-height: 100vh;
+    background: url("../images/pic.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+}
+
+.jumbotron {
+    color: rgb(173, 80, 173);
+    text-align: center;
+    font-weight: bolder;
+}
+
+
+.col-lg-12{
+
+    background-color: lightgrey;
+    width: 30px;
+    border: 5px solid rgb(82, 50, 109);
+}
+.panel-title{
+    font-style: italic;
+    text-decoration: underline;
+}
+.col-lg-6{
+    background-color: lightgrey;
+    width: 30px;
+    border: 10px solid rgb(2, 3, 78);
+    padding: 10px;
+    margin: 2px;
+}
+.col-lg-2{
+    background-color: lightgrey;
+    width: 30px;
+    border: 5px solid rgb(6, 73, 6);
+    padding: 10px;
+    margin: 2px;
+}
